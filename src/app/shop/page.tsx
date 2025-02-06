@@ -2,6 +2,16 @@ import Image from "next/image";
 import Feature from "@/components/Feature";
 import Products from "../query/Products/page";
 import Link from "next/link";
+import sanityClient  from '@sanity/client';
+
+const sanity = sanityClient({
+  projectId: "fbhn0r44",
+  dataset: "production",
+  apiVersion: '2025-01-18',
+  token:  process.env.SANITY_API_TOKEN,
+  useCdn: true,
+});
+
 
 const ShopPage = () => {
 
