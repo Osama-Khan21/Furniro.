@@ -5,11 +5,14 @@ import Image from "next/image";
 import Link from "next/link";
 
 const client = sanityClient({
-  projectId: "2srh4ekv",
-  dataset: "productions",
-  token: "skz6lWFJkAgpfrjXgwK8Tb6UBsTpRcSwzsQawON5Qps118XQdODrtVLdyXySTgJqC7rhPUKAOzb9prGs2aORcV0IICFN6pLKCLW2G0P7u5rExc8E92fzYp0UMuro6VpCzm51svtpWMCniHWaEiZAeJApDrYyIXgO5Uar4GLM2QPxFsswwZnU",
+  projectId: "fbhn0r44",
+  dataset: "production",
+  apiVersion: '2025-01-18',
+  token:  process.env.SANITY_API_TOKEN,
   useCdn: true,
 });
+
+
 
 interface Product {
   _id: string;
