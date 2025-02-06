@@ -5,7 +5,7 @@ import Link from "next/link";
 import sanityClient  from '@sanity/client';
 
 const sanity = sanityClient({
-  projectId: "fbhn0r44",
+  projectId: "c4qrj83u",
   dataset: "production",
   apiVersion: '2025-01-18',
   token:  process.env.SANITY_API_TOKEN,

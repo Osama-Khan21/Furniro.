@@ -1,4 +1,4 @@
-// File: C:\Users\ayana\Desktop\Hackathon-03-main syeda\Hackathon-03-main\furniture-ecommerce\src\app\query\Homeproducts\page.tsx
+// File: C:\Users\ayana\Desktop\Osama folder\Hackathon-E-Commerce-\src\app\query\Homeproducts\page.tsx
 import * as entry from '../../../../../src/app/query/Homeproducts/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

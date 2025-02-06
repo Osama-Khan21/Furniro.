@@ -2,7 +2,7 @@
 import { createClient } from 'next-sanity';
 
 const client = createClient({
-  projectId: "fbhn0r44",
+  projectId: "c4qrj83u",
   dataset: "production",
   useCdn: true, // Use `false` to always fetch fresh data
   token: process.env.SANITY_API_TOKEN, // Securely use the token
