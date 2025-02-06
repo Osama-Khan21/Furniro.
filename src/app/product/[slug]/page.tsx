@@ -8,8 +8,9 @@ import Asgaardproduct from '@/app/query/Asgaardproduct/page';
 import { useCartContext } from '@/context/CartContext';
 import Swal from 'sweetalert2';
 
+
 const sanity = sanityClient({
-  projectId: "c4qrj83u",
+  projectId: "3e6aa88e",
   dataset: "production",
   apiVersion: '2025-01-18',
   token:  process.env.SANITY_API_TOKEN,
