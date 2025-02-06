@@ -8,12 +8,13 @@ import Link from "next/link";
 import Swal from "sweetalert2";
 
 const sanity = sanityClient({
-  projectId: "2srh4ekv",
-  dataset: "productions",
+  projectId: "fbhn0r44",
+  dataset: "production",
   apiVersion: '2025-01-18',
   token:  process.env.SANITY_API_TOKEN,
   useCdn: true,
 });
+
 
 interface Project {
   _id: string;
