@@ -1,14 +1,14 @@
 "use client"
 import React from 'react';
-import sanityClient  from '@sanity/client';
 import Image from 'next/image';
 import Link from 'next/link';
 import { useCartContext } from "@/context/CartContext";
 import Swal from "sweetalert2";
+import sanityClient  from '@sanity/client';
 
 const sanity = sanityClient({
-  projectId: "2srh4ekv",
-  dataset: "productions",
+  projectId: "fbhn0r44",
+  dataset: "production",
   apiVersion: '2025-01-18',
   token:  process.env.SANITY_API_TOKEN,
   useCdn: true,
