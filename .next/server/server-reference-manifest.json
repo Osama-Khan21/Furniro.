@@ -3,34 +3,40 @@
     "87a2339bd15cd42732625e590c1117a1ca259300": {
       "workers": {
         "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/page": "action-browser",
-        "app/studio/[[...tool]]/page": "action-browser"
+        "app/studio/[[...tool]]/page": "action-browser",
+        "app/shop/page": "action-browser"
       }
     },
     "c7868f63956a462cee4f4a78fa82141044f99e63": {
       "workers": {
         "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/page": "action-browser",
-        "app/studio/[[...tool]]/page": "action-browser"
+        "app/studio/[[...tool]]/page": "action-browser",
+        "app/shop/page": "action-browser"
       }
     },
     "2cbb0251ca3348644a01af51f63e152971778eaa": {
       "workers": {
         "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/studio/[[...tool]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22createOrReadKeylessAction%22%2C%22syncKeylessConfigAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Cayana%5C%5CDesktop%5C%5COsama%20folder%5C%5CHackathon-E-Commerce-%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
         "app/page": "action-browser",
-        "app/studio/[[...tool]]/page": "action-browser"
+        "app/studio/[[...tool]]/page": "action-browser",
+        "app/shop/page": "action-browser"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "DvEBfRM8k54YU+pR1tc70iZiQtAgBrPcggnKSgYUDZI="
+  "encryptionKey": "wCSC6WFmgzHdlgUDwY7JtEhjtqMTXI1rdM1uh0ybxr0="
 }
